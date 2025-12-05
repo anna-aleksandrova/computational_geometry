@@ -2,7 +2,7 @@
 ## Term
 The following problems were considered:
 - geometric search
-- convex hull
+- convex hulls
 - proximity
 
 ## Final project
